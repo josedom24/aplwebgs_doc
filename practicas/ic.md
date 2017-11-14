@@ -34,6 +34,8 @@ Antes de empezar vamos a aprender a trabajar con [surge.sh](http://surge.sh/):
 	Entrega una descripción con los pasos fundamentales para la instalación y una captura de la página web que has realizado. (1 punto)
 ```
 
+## Tarea 3: Integración continua con travis y surge.sh (test y deploy)
+
 Vamos a añadir la funcionalidad de IC y DC con travis, para ello:
 
 * Realiza un fork del repositorio de GitHub: [https://github.com/josedom24/ic-travis-html5](https://github.com/josedom24/ic-travis-html5)
